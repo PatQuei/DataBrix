@@ -33,7 +33,7 @@ Após a criação do recurso, explorei o **Dashboard** do Azure:
 
 📸 **Print do meu Dashboard personalizado:**
 
-> ![Dashboard Personalizado](./images/dashboard_custom.png)
+> ![Dashboard Personalizado](https://github.com/PatQuei/DataBrix/blob/main/Projeto%20II%20-%20DataBrix/dashboard_custom.png)
 
 ---
 
