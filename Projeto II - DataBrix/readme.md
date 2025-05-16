@@ -19,7 +19,7 @@ Para iniciar, acessei o portal do Azure e criei um novo recurso do tipo **Data F
 
 📸 **Print da tela inicial com o recurso criado:**
 
-> ![Data Factory Criado](C:\Users\patri\OneDrive\Área de Trabalho\Coursera\DataBrix\Projeto II - DataBrix\datafactory_criado.png)
+> ![Data Factory Criado](https://github.com/PatQuei/DataBrix/blob/main/Projeto%20II%20-%20DataBrix/datafactory_criado.png)
 
 ---
 
